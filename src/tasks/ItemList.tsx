@@ -5,6 +5,7 @@ import { useEffect } from "react";
 2. Create state to keep response data 
 3. Create list which contains max 5 records and show it on UI
 4. Create a function which will increase array length by 2 on every button click
+5. Everything write in typescript
 */
 
 const API_URL = 'https://jsonplaceholder.typicode.com/posts'; // json mock

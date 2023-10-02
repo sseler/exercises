@@ -51,12 +51,6 @@
 //     }
     
 // }
-export const AgeFunctions = () => {
+export const ageFunction = () => console.log('lorem');
 
-
-    return (
-        <>
-            <h1>Typescript</h1>
-        </>
-    )
-} 
+ageFunction();
